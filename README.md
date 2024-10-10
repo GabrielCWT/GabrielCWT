@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+![Leetcode Stats](https://leetcard.jacoblin.cool/CARR0T02?ext=heatmap&theme=nord)
+<!-- https://github.com/JacobLinCool/LeetCode-Stats-Card -->
+
+![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielCWT&show_icons=true&theme=nord&hide=stars&hide_border=true)
+<!-- https://github.com/anuraghazra/github-readme-stats -->
 <!--
 **GabrielCWT/GabrielCWT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
