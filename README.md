@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/CARR0T02?ext=heatmap&theme=nord)
+<!-- ![Leetcode Stats](https://leetcard.jacoblin.cool/CARR0T02?ext=heatmap&theme=nord) -->
+<a href="https://leetcode.com/u/CARR0T02/"><img src="https://leetcard.jacoblin.cool/CARR0T02?ext=heatmap&theme=nord"/><a/>
 <!-- https://github.com/JacobLinCool/LeetCode-Stats-Card -->
 
 ![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielCWT&show_icons=true&theme=nord&hide=stars&hide_border=true)
